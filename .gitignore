@@ -1,4 +1,7 @@
-data/*
-log/*
-models/*
-simulation_result/*
+
+data/*.pkl
+models/*.pkl
+log/*.txt
+simulation_result/*.png
+.ipynb_checkpoints
+
